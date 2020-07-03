@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/configure
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/LICENSE
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/Makefile.in
+END
+jasper.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/jasper.spec.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/ChangeLog
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/COPYRIGHT
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/Makefile.am
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/README
+END
+jasper.spec
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/jasper.spec
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/aclocal.m4
+END

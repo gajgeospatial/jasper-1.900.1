@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/libjasper/jp2
+END
+jp2_cod.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/libjasper/jp2/jp2_cod.c
+END
+jp2_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/libjasper/jp2/jp2_enc.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/libjasper/jp2/Makefile.in
+END
+jp2_cod.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/libjasper/jp2/jp2_cod.h
+END
+jp2_dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/libjasper/jp2/jp2_dec.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/libjasper/jp2/Makefile.am
+END
+jp2_dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/libjasper/jp2/jp2_dec.h
+END

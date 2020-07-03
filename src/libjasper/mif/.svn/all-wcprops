@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/libjasper/mif
+END
+mif_cod.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/libjasper/mif/mif_cod.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/libjasper/mif/Makefile.in
+END
+mif_cod.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/libjasper/mif/mif_cod.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/libjasper/mif/Makefile.am
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/libjasper/mif/README
+END

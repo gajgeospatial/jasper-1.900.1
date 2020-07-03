@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/appl
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/appl/Makefile.in
+END
+jasper.1
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/appl/jasper.1
+END
+jasper.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/appl/jasper.c
+END
+imginfo.1
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/appl/imginfo.1
+END
+jiv.1
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/appl/jiv.1
+END
+tmrdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/appl/tmrdemo.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/appl/Makefile.am
+END
+imginfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/appl/imginfo.c
+END
+jiv.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/appl/jiv.c
+END
+imgcmp.1
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/appl/imgcmp.1
+END
+dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/appl/dummy.c
+END
+imgcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/appl/imgcmp.c
+END
+dummy2.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/src/appl/dummy2.c
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/acaux
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/acaux/mkinstalldirs
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/acaux/depcomp
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/acaux/missing
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/acaux/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/acaux/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/acaux/ltmain.sh
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/acu/!svn/ver/8236/branches/op3d_phase2_Delivered/jasper-1.900.1/acaux/install-sh
+END

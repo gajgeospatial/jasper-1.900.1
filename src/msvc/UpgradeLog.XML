@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="jasper">
+</Property><Property Name="Solution File" Value="C:\Development\op3d_active\jasper-1.900.1\src\msvc\jasper.sln">
+</Property><Property Name="Date" Value="Wednesday, April 11, 2012">
+</Property><Property Name="Time" Value="15:10 PM">
+</Property></Properties><Event ErrorLevel="3" Project="" Source="jasper.sln" Description="SafeUpgrade">
+</Event><Event ErrorLevel="2" Project="" Source="jasper.sln" Description="Error creating backup file: C:\Development\op3d_active\jasper-1.900.1\src\msvc\Backup\jasper.sln">
+</Event><Event ErrorLevel="3" Project="imgcmp" Source="imgcmp.dsp" Description="OneWayUpgrade">
+</Event><Event ErrorLevel="0" Project="imgcmp" Source="imgcmp.dsp" Description="Converting project file 'C:\Development\op3d_active\jasper-1.900.1\src\msvc\imgcmp.dsp'.">
+</Event><Event ErrorLevel="0" Project="imgcmp" Source="imgcmp.dsp" Description="Done converting to new project file 'C:\Development\op3d_active\jasper-1.900.1\src\msvc\imgcmp.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="imgcmp" Source="imgcmp.dsp" Description="Converted">
+</Event><Event ErrorLevel="3" Project="imginfo" Source="imginfo.dsp" Description="OneWayUpgrade">
+</Event><Event ErrorLevel="0" Project="imginfo" Source="imginfo.dsp" Description="Converting project file 'C:\Development\op3d_active\jasper-1.900.1\src\msvc\imginfo.dsp'.">
+</Event><Event ErrorLevel="0" Project="imginfo" Source="imginfo.dsp" Description="Done converting to new project file 'C:\Development\op3d_active\jasper-1.900.1\src\msvc\imginfo.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="imginfo" Source="imginfo.dsp" Description="Converted">
+</Event><Event ErrorLevel="3" Project="jasper" Source="jasper.dsp" Description="OneWayUpgrade">
+</Event><Event ErrorLevel="0" Project="jasper" Source="jasper.dsp" Description="Converting project file 'C:\Development\op3d_active\jasper-1.900.1\src\msvc\jasper.dsp'.">
+</Event><Event ErrorLevel="0" Project="jasper" Source="jasper.dsp" Description="Done converting to new project file 'C:\Development\op3d_active\jasper-1.900.1\src\msvc\jasper.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="jasper" Source="jasper.dsp" Description="Converted">
+</Event><Event ErrorLevel="3" Project="jiv" Source="jiv.dsp" Description="OneWayUpgrade">
+</Event><Event ErrorLevel="0" Project="jiv" Source="jiv.dsp" Description="Converting project file 'C:\Development\op3d_active\jasper-1.900.1\src\msvc\jiv.dsp'.">
+</Event><Event ErrorLevel="0" Project="jiv" Source="jiv.dsp" Description="Done converting to new project file 'C:\Development\op3d_active\jasper-1.900.1\src\msvc\jiv.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="jiv" Source="jiv.dsp" Description="Converted">
+</Event><Event ErrorLevel="3" Project="libjasper" Source="libjasper.dsp" Description="OneWayUpgrade">
+</Event><Event ErrorLevel="0" Project="libjasper" Source="libjasper.dsp" Description="Converting project file 'C:\Development\op3d_active\jasper-1.900.1\src\msvc\libjasper.dsp'.">
+</Event><Event ErrorLevel="0" Project="libjasper" Source="libjasper.dsp" Description="Done converting to new project file 'C:\Development\op3d_active\jasper-1.900.1\src\msvc\libjasper.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="libjasper" Source="libjasper.dsp" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="jasper.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="jasper.sln" Description="Converted">
+</Event></UpgradeLog>

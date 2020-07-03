@@ -1,0 +1,1 @@
+This project should be installed as JASPER_DIR with ProjectTool.
